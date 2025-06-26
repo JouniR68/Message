@@ -1,6 +1,6 @@
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
-/app/envirionment.ts
+/app/environment.ts
 
 # Compiled output
 /dist
